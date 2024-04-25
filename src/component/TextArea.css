@@ -1,0 +1,14 @@
+
+@media (max-width:428px){
+    .form-label{
+        font-size: 2rem;
+    }
+    tr{
+        font-size: 10px  ;
+    }
+}
+@media (max-width:258px){
+    h1{
+        font-size: 1rem;
+    }
+}

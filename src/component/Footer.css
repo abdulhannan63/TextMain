@@ -1,0 +1,19 @@
+.footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
+}
+p{
+    margin: auto 2rem;
+}
+@media (max-width:340px){
+    p{
+        font-size: 9px;
+        margin: auto .5rem;
+    }
+    .btn{
+        font-size: .6rem !important;
+        padding: 6px !important;
+    }
+}
